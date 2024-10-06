@@ -16,7 +16,8 @@
     "scripting",
     "database",
     "sqlite",
-    "sqlite3"
+    "sqlite3",
+    "wasm"
   ],
   "homepage": "https://bunny-launcher.net/bunny-databases/sqlite/",
   "bugs": "https://github.com/jlarmstrongiv/bunny-sqlite/issues",
@@ -43,15 +44,15 @@
     "dist"
   ],
   "devDependencies": {
-    "@sqlite.org/sqlite-wasm": "^3.46.1-build3",
-    "@tsconfig/node20": "^20.1.4",
-    "@types/fs-extra": "^11.0.4",
-    "@types/node": "^22.5.4",
-    "esbuild": "^0.24.0",
-    "fs-extra": "^11.2.0",
-    "patch-package": "^8.0.0",
-    "tsx": "^4.19.1",
-    "typescript": "^5.5.4"
+    "@sqlite.org/sqlite-wasm": "3.46.1-build3",
+    "@tsconfig/node20": "20.1.4",
+    "@types/fs-extra": "11.0.4",
+    "@types/node": "22.5.4",
+    "esbuild": "0.24.0",
+    "fs-extra": "11.2.0",
+    "patch-package": "8.0.0",
+    "tsx": "4.19.1",
+    "typescript": "5.5.4"
   },
   "packageManager": "npm@10.9.0",
   "engines": {
