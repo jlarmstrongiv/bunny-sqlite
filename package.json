@@ -32,7 +32,7 @@
     "build:dev": "NODE_ENV=development npx tsx src/bundler",
     "build": "npx tsx src/bundler",
     "patch": "npx patch-package @sqlite.org/sqlite-wasm --exclude='nothing'",
-    "postinstall": "npx patch-package",
+    "postinstall:local": "npx patch-package",
     "prepublishOnly": "npm run build",
     "pretest:deno": "npm run build:dev",
     "pretest:node": "npm run build:dev",
