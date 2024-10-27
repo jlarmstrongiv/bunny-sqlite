@@ -19,7 +19,7 @@
     "sqlite3",
     "wasm"
   ],
-  "homepage": "https://bunny-launcher.net/bunny-databases/sqlite/",
+  "homepage": "https://bunny-launcher.net/databases/sqlite/",
   "bugs": "https://github.com/jlarmstrongiv/bunny-sqlite/issues",
   "repository": {
     "type": "git",

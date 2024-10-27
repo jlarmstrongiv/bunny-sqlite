@@ -10,4 +10,4 @@ npm install bunny-sqlite
 
 ## Documentation
 
-Please read the [docs](https://bunny-launcher.net/bunny-databases/sqlite/) for usage and examples.
+Please read the [docs](https://bunny-launcher.net/databases/sqlite/) for usage and examples.
