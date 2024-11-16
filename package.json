@@ -1,6 +1,6 @@
 {
   "name": "bunny-sqlite",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "private": false,
   "type": "module",
   "description": "SQLite for Edge Scripting for bunny.net 🐰",
